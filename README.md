@@ -20,8 +20,7 @@
 </ol>
 
 > <a href="https://qa-bug-report321.atlassian.net/wiki/spaces/LIBRARY/pages/884750/1+2">Ссылка на проект</a>
-> <p> логин: OMShirshova@yandex.ru </p>
-> <p> пароль: Jira_Jira </p>
+
  <p>Как решала: 
  <ol>
  <li> Провела анализ требований стейкхолдеров, сформировала приёмочные тест-кейсы для каждого из них</li>
