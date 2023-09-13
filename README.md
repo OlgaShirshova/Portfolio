@@ -49,4 +49,7 @@
  <p>Итог:<p> 
   Составлен список проверок >   <a href="https://www.notion.so/API-9ad2d4ecccfa4371902cf92b0810cfcf?pvs=4"> Ссылка на проект</a>
 
-
+<p> <b>Проект 3:</b> Написание SQL-запросов </p>
+<p>Что нужно было сделать:<p>
+<p> Составить SQL-запросы на вывод определённых данных из БД <p>
+Итог:<a href="https://docs.google.com/document/d/1RII-PjqpqOy6YHBg-XsBCDL1v0QEQU_KmjHEcYZf66o/edit?usp=sharing"> Пример составленных SQL-запросов</a>
