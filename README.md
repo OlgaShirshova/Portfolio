@@ -19,8 +19,7 @@
 <li>Приемочное тестирование</li>
 </ol>
 
-> <a href="https://qa-bug-report321.atlassian.net/wiki/spaces/LIBRARY/pages/884750/1+2">Ссылка на проект</a>
-
+> <a href ="https://almondine-impulse-973.notion.site/Skyeng-c0e47ec0ee2a48d4afddc6becc004178?pvs=4">Ссылка на проект</a>
  <p>Как решала: 
  <ol>
  <li> Провела анализ требований стейкхолдеров, сформировала приёмочные тест-кейсы для каждого из них</li>
