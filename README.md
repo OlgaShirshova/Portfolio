@@ -19,7 +19,7 @@
 <li>Приемочное тестирование</li>
 </ol>
 
-> <a href ="https://almondine-impulse-973.notion.site/Skyeng-c0e47ec0ee2a48d4afddc6becc004178?pvs=4">Ссылка на проект</a>
+
  <p>Как решала: 
  <ol>
  <li> Провела анализ требований стейкхолдеров, сформировала приёмочные тест-кейсы для каждого из них</li>
@@ -33,7 +33,7 @@
   <li> Оформила отчёт о тестировании, включая аргументированные рекомендации о выпуске нового функционала в прод</li>
  </ol>
    <p>
- <p>Итог:<p>
+ <p>Итог: > <a href ="https://almondine-impulse-973.notion.site/Skyeng-c0e47ec0ee2a48d4afddc6becc004178?pvs=4">Ссылка на проект</a>  <p>
 <ol>
   <li>Новый функционал протестирован</li>
   <li>Составлен отчет о тестировании нового функционала</li>
@@ -49,7 +49,11 @@
  <p>Итог:<p> 
   Составлен список проверок >   <a href="https://www.notion.so/API-9ad2d4ecccfa4371902cf92b0810cfcf?pvs=4"> Ссылка на проект</a>
 
-<p> <b>Проект 3:</b> Написание SQL-запросов </p>
+ 
+<p> <b>Проект 3:</b> Работа с SQL-запросами </p>
 <p>Что нужно было сделать:<p>
-<p> Составить SQL-запросы на вывод определённых данных из БД <p>
-Итог:<a href="https://docs.google.com/document/d/1RII-PjqpqOy6YHBg-XsBCDL1v0QEQU_KmjHEcYZf66o/edit?usp=sharing"> Пример составленных SQL-запросов</a>
+ <ol>
+<li>Создать таблицы с данными в Dbeaver</li>
+<li> Составить SQL-запросы для выборки определённых данных из БД </li>
+ </ol>
+Итог: Составлены SQL-запросы > <a href="https://docs.google.com/document/d/1RII-PjqpqOy6YHBg-XsBCDL1v0QEQU_KmjHEcYZf66o/edit?usp=sharing"> Пример составленных SQL-запросов</a>
